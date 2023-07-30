@@ -1386,8 +1386,8 @@
                   "parameters": [
                     "Bullet",
                     "Bounce",
-                    "=",
-                    "BouncesSlider.Value()",
+                    ">=",
+                    "BouncesSlider.Value()+1",
                     ""
                   ]
                 }
